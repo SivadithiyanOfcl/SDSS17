@@ -1,6 +1,9 @@
 # SDSS17
 An extensive EDA and ML models on stellar object classification using SDSS17 dataset.
 
+# Visit my deployed web-app of this project 
+https://sdss2017.herokuapp.com/ 
+
 Goal: To do detailed data analysis and train ML models on the dataset to classify stellar objects based on certain parameters
 ***
 Context: 
