@@ -24,6 +24,7 @@ naive_model = pickle.load(open('nb.pkl','rb'))
 gbc_model = pickle.load(open('gbc.pkl','rb'))
 tree_model = pickle.load(open('tree.pkl','rb'))
 forest_model = pickle.load(open('forest.pkl','rb'))
+nb_model = pickle.load(open('nb.pkl','rb'))
 
 mms = MinMaxScaler()
 df = mms.fit_transform(df)
